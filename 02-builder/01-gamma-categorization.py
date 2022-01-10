@@ -11,9 +11,10 @@
 # - Preocupação com a estrutura do programa (membros das classes)
 # - Muitos padrões são wrappers que remetem à interface da classe interior
 # - Estressam a importância de um bom design de API
-# Composite, Decorator, Flyweight
+# Adapter, Bridge, Composite, Decorator, Façade, Flyweight, Proxy
 
 # Behavioral Patterns
 # - São todos diferentes, não tem padrão.
 # - Tratam de todos os temas, mas são únicos.
-# Iterator
+# Chain of Responsability, Command, Interpreter, Iterator, Mediator,
+# Memento, Observer, State, Strategy, Template Method, Visitor
