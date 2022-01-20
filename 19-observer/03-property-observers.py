@@ -36,6 +36,7 @@ class Person(PropertyObservable):
         self._age = value
         self.property_changed("age", value)
 
+
 # A TrafficAuthoirity is an entity that is interested in
 # knowing when a person has age to drive or not
 class TrafficAuthority:
